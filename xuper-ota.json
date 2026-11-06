@@ -1,0 +1,6 @@
+{
+  "manifestUrls": [
+    "https://raw.githubusercontent.com/DixonCortes/Tv4k/main/version.json",
+    "https://cdn.jsdelivr.net/gh/DixonCortes/Tv4k@main/version.json"
+  ]
+}
